@@ -1,8 +1,3 @@
-name = "portfolio"
-compatibility_date = "2025-12-31"
-
-pages_build_output_dir = "."
-
-[site]
-bucket = "."
+# Cloudflare Pages configuration for static site
+# This file helps Cloudflare Pages understand this is a static site
 
